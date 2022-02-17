@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Mach-Levi
+- 👋 Hi, I’m Levi.
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning machine learning and data mining
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently actively learning machine learning
+- 💞️ I’m looking to collaborate on any ml projects to facilitate my learning.
 
 <!---
 Mach-Levi/Mach-Levi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
