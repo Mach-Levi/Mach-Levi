@@ -12,16 +12,9 @@ You can click the Preview link to take a look at your changes.
 #### Score
 <a href="https://github.com/Mach-Levi/Mach-Levi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mach-Levi&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Bryan's GitHub Stats" />
-</a>
-
-#### Languages
-
-
-  <a href="https://github.com/Mach-Levi/github-readme-stats">
+</a><a href="https://github.com/Mach-Levi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mach-Levi&theme=highcontrast" />
 </a>
-
-#### Consistency:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mach-Levi&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
