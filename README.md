@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Levi.
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently actively learning machine learning
+- 🌱 Cureently I’m actively learning machine learning
 - 💞️ I’m looking to collaborate on any ML projects to facilitate my advanced learning.
 
 <!---
