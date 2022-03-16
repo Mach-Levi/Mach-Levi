@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Statistics
 #### Score
-<h6 >Visits : <img src="https://profile-counter.glitch.me/Mach-Levi/count.svg" width="150px"/></h6>
+<h6 >Profile Views: <img src="https://profile-counter.glitch.me/Mach-Levi/count.svg" width="150px"/></h6>
 <a href="https://github.com/Mach-Levi/Mach-Levi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mach-Levi&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Bryan's GitHub Stats" />
 </a><a href="https://github.com/Mach-Levi/github-readme-stats">
