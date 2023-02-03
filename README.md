@@ -18,14 +18,3 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mach-Levi&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
-
-### Achievements:
-
-<div align="center">  
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Mach-Levi&margin-w=15&margin-h=15" />
-
-</div>
-
-#### Graph:
-<!-- https://github.com/Mach-Levi/github-readme-activity-graph -->
-<a href="https://github.com/Mach-Levi/github-readme-activity-graph"><img alt="Levy Cotech's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Mach-Levi&bg_color=1F222E&color=F8D866&line=31e981&point=FFFFFF&hide_border=true" /></a>
