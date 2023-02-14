@@ -8,7 +8,7 @@ Mach-Levi/Mach-Levi is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 #### Score
 <h6 >Profile Views: <img src="https://profile-counter.glitch.me/Mach-Levi/count.svg" width="150px"/></h6>
 <table>
