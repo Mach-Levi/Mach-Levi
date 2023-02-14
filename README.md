@@ -2,6 +2,7 @@
 - 👀 I’m interested in artificial intelligence
 - 🌱 I'm still actively learning machine learning
 - 💞️ I’m looking to collaborate on any ML project to facilitate my advancement in the field.
+- Kindly star any of my pinned repo.
 
 <!---
 Mach-Levi/Mach-Levi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
